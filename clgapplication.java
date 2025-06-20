@@ -4,7 +4,7 @@ public class clgapplication {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
 
-        System.out.println("===== College Admission Test Application =====");
+        System.out.println(" College Admission Test Application");
 
         // Taking user input
         System.out.print("Enter your full name: ");
